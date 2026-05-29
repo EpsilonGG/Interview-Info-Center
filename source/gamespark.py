@@ -1,6 +1,6 @@
-source_id = "gamespark_interview"
+source_id = "GameSpark"
 
-url = "https://www.gamespark.jp/..."
+url = "https://www.gamespark.jp/category/featured/interview/latest/"
 
 platform = "website"
 
