@@ -1,0 +1,6 @@
+source_id
+url
+platform
+fetch_mode
+parser_mode
+timezone_hint
